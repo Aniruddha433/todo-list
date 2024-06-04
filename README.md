@@ -176,3 +176,4 @@ The TO-DOIT App is deployed and accessible online. You can use the following lin
 ## 9. License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) and was originally developed by [@abdellatif-laghjaj](https://github.com/abdellatif-laghjaj) with the contribution of [@takitajwar17](https://github.com/takitajwar17). 
+# Simple-Task-List
